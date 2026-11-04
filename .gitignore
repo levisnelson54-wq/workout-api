@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Database files
+*.db
+
+# Environment variables
+.env
+
+# Virtual environments
+.venv/
+venv/
+
+# Testing files
+.pytest_cache/
+.coverage
